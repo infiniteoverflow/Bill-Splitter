@@ -2,8 +2,6 @@
 
 A basic bill splitter app to understand basic flutter widgets.
 
-## Android
-![](./screenshots/android.png)
 
-## IOS
-![](./screenshots/ios.png)
+<img src="./screenshots/android.png" height="350" width="200">
+<img src="./screenshots/ios.png" height="350" width="200">
