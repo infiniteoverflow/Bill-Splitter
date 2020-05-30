@@ -3,5 +3,10 @@
 A basic bill splitter app to understand basic flutter widgets.
 
 
-<img src="./screenshots/android.png" height="350" width="200">
-<img src="./screenshots/ios.png" height="350" width="200">
+
+<table style="{border:none}">
+<tr><td>
+<img src="./screenshots/android.png" width="240"/>
+</td><td>
+<img src="./screenshots/ios.png" width="240" />
+</td></tr></table>
